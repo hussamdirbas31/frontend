@@ -73,7 +73,7 @@ export function TechInnovationShowcase() {
             Cutting-Edge Innovations
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            How we're revolutionizing tech retail
+            How we&apos;re revolutionizing tech retail
           </p>
         </motion.div>
 
